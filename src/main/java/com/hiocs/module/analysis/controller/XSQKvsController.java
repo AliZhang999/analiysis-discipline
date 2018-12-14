@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("xsqkvs")
+@RequestMapping("home/xsqkvs")
 @Api(tags = "首页学生情况对标")
 public class XSQKvsController {
 

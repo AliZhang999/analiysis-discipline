@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("xkzyvs")
+@RequestMapping("home/xkzyvs")
 @Api(tags = "首页学科专业对标")
 public class XKZYvsController {
 

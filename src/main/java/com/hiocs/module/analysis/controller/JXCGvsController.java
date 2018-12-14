@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("jxcgvs")
+@RequestMapping("home/jxcgvs")
 @Api(tags = "首页教学成果对标")
 public class JXCGvsController {
 

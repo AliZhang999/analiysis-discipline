@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("common")
+@RequestMapping("home/common")
 @Api(tags = "通用接口")
 public class CommonController {
 

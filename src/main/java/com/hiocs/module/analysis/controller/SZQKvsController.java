@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("szkqvs")
+@RequestMapping("home/szkqvs")
 @Api(tags = "首页师资情况对标")
 public class SZQKvsController {
 

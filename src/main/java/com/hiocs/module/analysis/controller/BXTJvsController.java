@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("bxtjvs")
+@RequestMapping("home/bxtjvs")
 @Api(tags = "首页办学条件对标")
 public class BXTJvsController {
 

@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("kyspvs")
+@RequestMapping("home/kyspvs")
 @Api(tags = "首页科研水平对标")
 public class KYSPvsController {
 

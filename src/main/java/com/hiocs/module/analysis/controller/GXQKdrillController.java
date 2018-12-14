@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("gxqkdrill")
+@RequestMapping("home/gxqkdrill")
 @Api(tags = "首页高校情况下钻")
 public class GXQKdrillController {
 
